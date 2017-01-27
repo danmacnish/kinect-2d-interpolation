@@ -1,0 +1,3 @@
+ofxGif
+ofxGui
+ofxPolyfit
